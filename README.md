@@ -4,8 +4,7 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 Johns Hopkins University
 Specialized program in data science
 
-Getting and Cleaning Data Course Project
-By Luisa María Rodríguez Cadavid
+Getting and Cleaning Data Course Project by Luisa María Rodríguez Cadavid
 
 Dataset:
 Human Activity Recognition Using Smartphones
@@ -17,7 +16,11 @@ Human Activity Recognition Using Smartphones
  Description: script that allows us to prepare and order the data set for further analysis
 
    Merges the training and the test sets to create one data set.
+   
    Extracts only the measurements on the mean and standard deviation for each measurement.
+   
    Uses descriptive activity names to name the activities in the data set
+   
    Appropriately labels the data set with descriptive variable names.
+   
    From the data set in last step, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
