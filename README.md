@@ -3,6 +3,7 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 
 Johns Hopkins University
 Specialized program in data science
+
 Getting and Cleaning Data Course Project
 By Luisa María Rodríguez Cadavid
 
